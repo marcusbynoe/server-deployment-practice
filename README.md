@@ -11,7 +11,7 @@ Basic API Server where we write some middleware and practice deployment. Built f
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/marcusbynoe/server-deployment-practice/actions/runs/4169443959/jobs/7217409366)
-- [back-end server url](http://xyz.com)
+- [back-end server url](https://d51-practice-mb.onrender.com)
 
 
 ### Setup
@@ -30,7 +30,7 @@ N/A
 #### Features / Routes
 
 - Feature One: Deploy as dev branch once ci/cd works.
-- GET : `/hello` - specific route to hit
+
 
 #### Tests
 
