@@ -2,9 +2,9 @@
   "name": "server-devployment-practice",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node index.js",
     "lint": "eslint **/*.js",
     "test": "jest --verbose --coverage",
     "test-watch": "jest --watchAll --verbose --coverage"
@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rkgallaway/server-deployment-practice-d51/issues"
+    "url": "https://github.com/marcusbynoe/server-deployment-practice/issues"
   },
-  "homepage": "https://github.com/rkgallaway/server-deployment-practice-d51#readme",
+  "homepage": "https://github.com/marcusbynoe/server-deployment-practice/blob/main/README.md",
   "dependencies": {
     "dotenv": "^16.0.3",
     "eslint": "^8.34.0",
