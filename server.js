@@ -4,7 +4,7 @@ const express = require('express');
 const logger = require('./middleware/logger.js');
 const notFound = require('./handlers/404');
 const errorHandler = require('./handlers/500');
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3002;
 
 // creates an express singleton
 const app = express();
